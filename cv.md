@@ -11,3 +11,7 @@ __Discord:__ Pavel L(@webtechexdev)
 
 ## About me:
 My current goal is further professional and personal growth in frontend development.
+
+## Strengths: 
+- focus on results
+- perseverance
