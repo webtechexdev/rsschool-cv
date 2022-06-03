@@ -1,1 +1,1 @@
-# rsschool-cv
+https://webtechexdev.github.io/rsschool-cv/cv
