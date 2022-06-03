@@ -15,3 +15,12 @@ My current goal is further professional and personal growth in frontend developm
 ## Strengths: 
 - focus on results
 - perseverance
+
+## Skills:
+- HTML
+- CSS
+- JS
+- GitHub & GIT
+
+## Education:
+Belarusian State Economic University .
